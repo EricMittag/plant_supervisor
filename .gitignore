@@ -1,0 +1,9 @@
+# exclude everything
+__pycache__/
+log/*
+static/img/*
+Sensor_Data.csv
+
+# exception to the rule
+!log/.gitkeep 
+!static/img/.gitkeep 
