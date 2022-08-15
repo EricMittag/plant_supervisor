@@ -93,7 +93,7 @@ A supervisor to monitor a plant via the RPi Camera and water it depending on the
 ## Usage
 
 <img src="docs/img/WebsiteHome.png" alt="Website Home">
-<img src="docs/img/LiveView.png" alt="Website Live View">
+<img src="docs/img/WebsiteLiveView.png" alt="Website Live View">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
